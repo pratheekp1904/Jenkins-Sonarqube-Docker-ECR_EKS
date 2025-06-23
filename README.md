@@ -41,3 +41,5 @@ This project demonstrates the implementation of a full CI/CD (Continuous Integra
 | **Ubuntu**     | OS for EC2 instances |
 
 ---
+
+> ⚠️ **Note:** The live demo is currently **unavailable** due to AWS account suspension. All functionality is documented through screenshots, architecture diagrams, and a project presentation included in this repository.
