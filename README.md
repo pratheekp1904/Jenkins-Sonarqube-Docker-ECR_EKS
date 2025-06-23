@@ -1,4 +1,4 @@
-# 🚀 CI/CD Pipeline with AWS & Jenkins
+# 🚀 CI/CD Pipeline using AWS
 
 This project demonstrates the implementation of a full CI/CD (Continuous Integration & Continuous Deployment) pipeline using AWS and popular DevOps tools. The objective is to automate the entire Software Development Life Cycle (SDLC) from code commit to production deployment.
 
