@@ -43,3 +43,18 @@ This project demonstrates the implementation of a full CI/CD (Continuous Integra
 ---
 
 > ⚠️ **Note:** The live demo is currently **unavailable** due to AWS account suspension. All functionality is documented through screenshots, architecture diagrams, and a project presentation included in this repository.
+
+These were the tech stacks used in this project;
+![tech Stacks](assets/screenshots/tech_stacks.png)
+
+Architecture diagram;
+![Architecture Diagram](assets/screenshots/architecture_diagram.png)
+
+The website deployed;
+![Deployed Webpage](assets/screenshots/deployed_webpage.png)
+
+Changes committed and Pipeline triggered;
+![Changes Initiated](assets/screenshots/changes_initiated.png)
+
+Changes Updated;
+![Changes Updated](assets/screenshots/changes_updated.png)
