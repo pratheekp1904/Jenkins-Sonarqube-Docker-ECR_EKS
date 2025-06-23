@@ -1,18 +1,43 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+# 🚀 CI/CD Pipeline with AWS & Jenkins
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+This project demonstrates the implementation of a full CI/CD (Continuous Integration & Continuous Deployment) pipeline using AWS and popular DevOps tools. The objective is to automate the entire Software Development Life Cycle (SDLC) from code commit to production deployment.
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+---
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+## 🎯 Aim of the Project
 
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
+- ✅ Automate CI and improve code quality
+- ✅ Simplify and standardize deployments
+- ✅ Efficiently manage Docker images
+- ✅ Enable scalable deployments using Kubernetes
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+---
 
-[LIVE PREVIEW](http://buckymaler.com/global)
+## 📌 Project Scope
 
-## Misc:
+- Automate the **SDLC** using a full-fledged CI/CD pipeline
+- Integrate with **GitHub** for version control and change detection
+- Use **Jenkins** for orchestrating the pipeline
+- Analyze code quality using **SonarQube**
+- **Dockerize** the application
+- Push the image to **Amazon ECR**
+- Deploy the container on **Amazon EKS** cluster
+- Host and serve a **static webpage**
 
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+---
+
+## 🛠️ Tools & Technologies Used
+
+| Tool       | Purpose                            |
+|------------|-------------------------------------|
+| **AWS EC2**    | Hosts Jenkins, Docker, SonarQube, and other services |
+| **AWS ECR**    | Container registry to store Docker images |
+| **AWS EKS**    | Kubernetes cluster for scalable deployment |
+| **GitHub**     | Source code management |
+| **Jenkins**    | CI/CD pipeline automation |
+| **SonarQube**  | Code quality analysis |
+| **Docker**     | Containerization |
+| **Java**       | Application code |
+| **Ubuntu**     | OS for EC2 instances |
+
+---
